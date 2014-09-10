@@ -3,5 +3,5 @@
   "password": "",
   "registry": "",
   "registryHost": "",
-  "fpmHost": "http://repository.fpmjs.org"
+  "fpmHost": "repository.fpmjs.org"
 }
