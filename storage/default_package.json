@@ -1,0 +1,51 @@
+{
+  "name": "",
+  "version": "",
+  "description": "",
+  "keywords": [],
+  "homepage": "",
+  "bugs": {
+    "url": "",
+    "email": ""
+  },
+  "license": "",
+  "licenses": [
+    {
+      "type": "",
+      "url": ""
+    }
+  ],
+  "author": [
+    {
+      "name": "",
+      "url": "",
+      "email": ""
+    }
+  ],
+  "maintainers":[
+    {
+      "name": "",
+      "url": "",
+      "email": ""
+    }
+  ],
+  "contributors": {
+    "number": "",
+    "url": ""
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "private": "",
+  "scripts": {},
+  "bin": {},
+  "directories": {
+    "lib": "",
+    "bin": "",
+    "man": "",
+    "doc": "",
+    "example": ""
+  },
+  "dependencies": {}
+}

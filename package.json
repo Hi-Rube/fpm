@@ -1,0 +1,45 @@
+{
+  "name": "fpm",
+  "version": "0.1.1",
+  "description": "",
+  "keywords": [],
+  "homepage": "",
+  "bugs": {
+    "url": "",
+    "email": ""
+  },
+  "license": "",
+  "licenses": [
+    {
+      "type": "",
+      "url": ""
+    }
+  ],
+  "author": [
+    {
+      "name": "",
+      "url": "",
+      "email": ""
+    }
+  ],
+  "contributors": {
+    "number": "",
+    "url": ""
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "private": "",
+  "script": {},
+  "bin": {},
+  "directories": {
+    "lib": "",
+    "bin": "",
+    "man": "",
+    "doc": "",
+    "example": ""
+  },
+  "dependencies": {
+  }
+}
