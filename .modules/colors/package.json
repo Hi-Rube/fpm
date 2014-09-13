@@ -1,0 +1,51 @@
+{
+  "name": "color",
+  "version": "1.0.4",
+  "description": "make console colorful the author is harth",
+  "keywords": ["color", "console"],
+  "homepage": "https://github.com/harthur/color",
+  "bugs": {
+    "url": "",
+    "email": ""
+  },
+  "license": "",
+  "licenses": [
+    {
+      "type": "",
+      "url": ""
+    }
+  ],
+  "author": [
+    {
+      "name": "harth",
+      "url": "",
+      "email": "fayearthur@gmail.com"
+    }
+  ],
+  "maintainers": [
+    {
+      "name": "harth",
+      "url": "",
+      "email": "fayearthur@gmail.com"
+    }
+  ],
+  "contributors": {
+    "number": "",
+    "url": ""
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "private": "",
+  "scripts": {},
+  "bin": {},
+  "directories": {
+    "lib": "",
+    "bin": "",
+    "man": "",
+    "doc": "",
+    "example": ""
+  },
+  "dependencies": {}
+}
