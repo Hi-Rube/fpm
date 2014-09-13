@@ -8,5 +8,6 @@ mkdir /tmp/fpm
 fi
 curl -o /tmp/fpm/fpm.tar.gz http://storage.fpmjs.org/fpm-0.1.1.tar.gz
 tar -zxf /tmp/fpm/fpm.tar.gz -C /tmp/fpm
-sh /tmp/fpm/fpm/script/install.sh
+cd /tmp/fpm/fpm/script
+sh ./install.sh
 
