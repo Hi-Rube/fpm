@@ -13,7 +13,7 @@ fi
 if [ -L $fpm_path ]; then
 	sudo rm $fpm_path
 fi
-sudo cp -rf ../* $fib_modules
+sudo cp -rf ../ $fib_modules
 sudo ln -s "$fib_modules"/bin/index.js $fpm_path 
 
 echo "...Install Finish"
