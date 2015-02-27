@@ -1,6 +1,7 @@
 #fpm -- fibjs package manager#
 ---
 fpm 是[fibjs](http://fibjs.org)的包管理工具
+![fpm]()
 
 ##安装之前##
 你需要安装fibjs， 详细安装步骤请访问http://fibjs.org
